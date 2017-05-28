@@ -1,0 +1,6 @@
+c:\users\haoyuan\documents\visual studio 2015\Projects\voiceConverter\voiceConverter\bin\voiceConverter.dll.config
+c:\users\haoyuan\documents\visual studio 2015\Projects\voiceConverter\voiceConverter\bin\voiceConverter.dll
+c:\users\haoyuan\documents\visual studio 2015\Projects\voiceConverter\voiceConverter\bin\voiceConverter.pdb
+c:\users\haoyuan\documents\visual studio 2015\Projects\voiceConverter\voiceConverter\obj\Debug\voiceConverter.csprojResolveAssemblyReference.cache
+c:\users\haoyuan\documents\visual studio 2015\Projects\voiceConverter\voiceConverter\obj\Debug\voiceConverter.dll
+c:\users\haoyuan\documents\visual studio 2015\Projects\voiceConverter\voiceConverter\obj\Debug\voiceConverter.pdb

@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>TypeScript HTML App</title>
+    <link rel="stylesheet" href="app.css" type="text/css" />
+    <script src="app.js"></script>
+</head>
+<body>
+    <h2>Active Voice Converter</h2>
+    <div id="content"></div>
+
+    <p><b>Sample question: </b>
+    <br />
+    Joe Kogawa wrote the novel Obasan.</p>
+    
+    <b>Sample response(and it's not hardcoded!): </b> <div id="sample"></div>
+
+    <h3 style="max-width:100%;">Now, type in some random stuff... </h3>
+
+    <textarea id="userInput"></textarea>
+
+    <textarea disabled id="Output"></textarea>
+
+    <p><button class="button button1" id="convertButton" onclick="validateRequest()">Convert</button></p>
+
+
+</body>
+</html>
